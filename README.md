@@ -8,3 +8,5 @@ This project began as a simple coding competition as a lackluster means to pract
 ![image](https://user-images.githubusercontent.com/59450769/180795383-ed4b8fb4-0dae-4caa-b9a3-e1ead0eb8fe2.png)
 
 https://colab.research.google.com/drive/1qrB47n1W9erzD2BzXnFYHPp-faIOuLj_#scrollTo=dbdljEmCVpf0
+
+https://zoom.earth/#view=-7.87,36.19,6z/date=2022-07-17,21:30,-4/map=live/overlays=crosshair
