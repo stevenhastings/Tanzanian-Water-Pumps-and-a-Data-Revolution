@@ -9,5 +9,10 @@ This project began as a simple coding competition as a lackluster means to pract
 
 https://colab.research.google.com/drive/1qrB47n1W9erzD2BzXnFYHPp-faIOuLj_#scrollTo=dbdljEmCVpf0
 
+
+https://user-images.githubusercontent.com/59450769/181008408-9190b44d-e61d-4e5e-8f15-7a70eb6dff89.mp4
+
+
 Google Earth Weather Radar:
 https://zoom.earth/#view=-7.87,36.19,6z/date=2022-07-17,21:30,-4/map=live/overlays=crosshair
+
