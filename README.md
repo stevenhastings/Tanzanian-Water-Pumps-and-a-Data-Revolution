@@ -1,4 +1,4 @@
-# Tanzanian-Water-Pumps-and-a-Data-Revolution
+# Tanzanian-Water-Pumps-and-a-Data-Revolution   [Link to Notebook](https://colab.research.google.com/drive/1pddRT7KurVV5KE62W-ES_f8C3jVA7_Bn?usp=sharing)
 
 ### Project General Overview:
 Derived from a competition put on by Data-Driven: a company that holds international competitions based on statistical modeling in order to gather data for and improve solutions for the common good.  In this case the common good is life and sustainability throughout the Eastern Coastal country of Africa "Tanzania"
