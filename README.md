@@ -1,7 +1,7 @@
 # Tanzanian-Water-Pumps-and-a-Data-Revolution   [Link to Notebook](https://colab.research.google.com/drive/1pddRT7KurVV5KE62W-ES_f8C3jVA7_Bn?usp=sharing)
 
 ### Project General Overview:
-Derived from a competition put on by Data-Driven: a company that holds international competitions based on statistical modeling in order to gather data for and improve solutions for the common good.  In this case the common good is life and sustainability throughout the Eastern Coastal country of Africa "Tanzania"
+Derived from a competition put on by Driven-Data: a company that holds international competitions based on statistical modeling in order to gather data for and improve solutions for the common good.  In this case the common good is life and sustainability throughout the Eastern Coastal country of Africa "Tanzania"
 
 ### Project Goals:
 Using data from Taarifa and the Tanzanian Ministry of Water, can you predict which pumps are functional, which need some repairs, and which don't work at all? This is an intermediate-level practice competition. Predict one of these three classes based on a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania.
